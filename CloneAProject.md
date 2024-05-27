@@ -1,4 +1,4 @@
-# Push codes to a remote repository
+# Clone and push codes to a remote repository
 
 1. Clone the repository to your local machine using "git clone" command.
 
